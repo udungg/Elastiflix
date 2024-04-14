@@ -3,7 +3,7 @@ charset-normalizer==2.0.4
 elastic-enterprise-search==8.4.0
 elastic-transport==8.4.0
 elasticsearch==8.4.0
-idna==3.2
+idna==3.7
 PyJWT==1.7.1
 python-dateutil==2.8.2
 requests==2.26.0
